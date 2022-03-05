@@ -1,7 +1,7 @@
 # PoP - Assignment 6
 PoP - 6i
 
-Don't be stupid...
+This assignment was about continued fractions. In this case, we were tasked with creating and reversing continued fractions.
 
 # PoP - 6g
 
