@@ -9,17 +9,17 @@ This assignment was about continued fractions. In this case, we were tasked with
 ## Kode
 
 
-Biblioteket compiles med fsharpc;
+The library is compiled with fsharpc;
 
 	$ fsharpc -a continuedFraction.fsi continuedFraction.fs
 
 
-Nu compiles testen med fsharpc og køres med mono;
+The code is compiled with the library with fsharpc and run with mono;
 
 	$ fsharpc -r continuedFraction.dll continuedFractionTest.fsx
 	$ mono continuedFractionTest.exe
 
 
-continuedFraction.fsi compiles til XML med fsharpc;
+The library is compiled to XML with fsharpc;
 
 	$ fsharpc --doc:continuedFraction.xml -a continuedFraction.fsi continuedFraction.fs
