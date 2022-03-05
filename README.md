@@ -1,15 +1,15 @@
-# PoP - Assignment 
-PoP - 
+# PoP - Assignment 6
+PoP - 6i
 
 Don't be stupid...
 
-# PoP -6g
+# PoP - 6g
 
 
 ## Kode
 
 
-Biblioteket compiles med fsharpc;;
+Biblioteket compiles med fsharpc;
 
 	$ fsharpc -a continuedFraction.fsi continuedFraction.fs
 
